@@ -1,4 +1,4 @@
-
+#code by xiwei
 
 class visdom_torch:
     def __init__(self, plot, update = 'reduce'):
